@@ -29,9 +29,3 @@ This project involves various machine learning techniques for classification tas
 6. **`pj_undon_data_predict_final.ipynb`**: 
    - **Purpose**: Classification of unmonitored data using Random Forest + Binary Classification and Multiclass Classification.
    - **Description**: This notebook is dedicated to the classification of unmonitored data using the Random Forest algorithm and includes both binary and multiclass classification methods.
-
-## Getting Started
-
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/your-repo-url.git
